@@ -1,0 +1,15 @@
+[submodule "libs/sdl"]
+	path = libs/sdl
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "libs/glm"]
+	path = libs/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "libs/sdl-ttf"]
+	path = libs/sdl-ttf
+	url = https://github.com/libsdl-org/SDL_ttf.git
+[submodule "libs/sdl-image"]
+	path = libs/sdl-image
+	url = https://github.com/libsdl-org/SDL_image.git
+[submodule "libs/sdl-mixer"]
+	path = libs/sdl-mixer
+	url = https://github.com/libsdl-org/SDL_mixer.git
